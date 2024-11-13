@@ -1,6 +1,6 @@
 
 /*
- * ADC_prog.c
+ * ADC_prg.c
  *
  *  Created on: Jul 5, 2022
  *      Author: Mohamed Mamdoh
